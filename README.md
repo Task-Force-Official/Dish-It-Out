@@ -7,7 +7,7 @@ Create a Flask API that returns random pictures of dishes. Your API should have 
 1. Use Flask to create the API
 2. Implement at least one endpoint that returns a random dish image
 3. Handle potential errors gracefully
-4. Include basic documentation for your API in a [README file](https://www.makeareadme.com/) - include how to run the app, what endpoints are available, and any fun facts about the dishes you've included
+4. Include basic documentation for your API in a [README file](https://www.makeareadme.com/) - include how to run the app, what endpoints are available, and, optionally, any fun facts about the dishes you've included
 5. Have at least 5 dishes
 
 ## Submission
@@ -60,16 +60,16 @@ if __name__ == '__main__':
 
 ### Flask Tutorials and Documentation
 1. ⭐️ [Official Flask Documentation](https://flask.palletsprojects.com/)
-2. [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Grinberg
-3. [Flask for Beginners](https://www.pythonforbeginners.com/flask/) - Python for Beginners
-4. [Real Python Flask Tutorials](https://realpython.com/tutorials/flask/)
+2. [Simple Flask API Tutorial](https://www.youtube.com/watch?v=zsYIw6RXjfM)
+3. [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Grinberg
+4. [Flask Quickstart](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
+5. [Real Python Flask Tutorials](https://realpython.com/tutorials/flask/)
 
 ### RESTful API Design
-1. [RESTful API Design: Best Practices](https://blog.restcase.com/restful-api-design-13-best-practices-to-make-your-users-happy/)
+1. [RESTful API Design: Best Practices](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask) by Miguel Grinberg
 2. [Flask RESTful Documentation](https://flask-restful.readthedocs.io/en/latest/)
 
 ### Error Handling in Flask
 1. [Flask Error Handling](https://flask.palletsprojects.com/en/2.0.x/errorhandling/)
-2. [Better Error Handling for Flask](https://www.youtube.com/watch?v=lYqxU4z5sHE) - Pretty Printed (YouTube)
 
 Remember to consult these resources if you get stuck or want to learn more about specific aspects of Flask and API development. Good luck, and happy coding!
