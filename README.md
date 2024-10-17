@@ -7,7 +7,7 @@ Create a Flask API that returns random pictures of dishes. Your API should have 
 1. Use Flask to create the API
 2. Implement at least one endpoint that returns a random dish image
 3. Handle potential errors gracefully
-4. Include basic documentation for your API
+4. Include basic documentation for your API in a [README file](https://www.makeareadme.com/) - include how to run the app, what endpoints are available, and any fun facts about the dishes you've included
 5. Have at least 5 dishes
 
 ## Submission
