@@ -60,7 +60,7 @@ if __name__ == '__main__':
 
 ### Flask Tutorials and Documentation
 1. ⭐️ [Official Flask Documentation](https://flask.palletsprojects.com/)
-2. [Simple Flask API Tutorial](https://www.youtube.com/watch?v=zsYIw6RXjfM)
+2. ⭐️ [Simple Flask API Tutorial](https://www.youtube.com/watch?v=zsYIw6RXjfM)
 3. [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Grinberg
 4. [Flask Quickstart](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
 5. [Real Python Flask Tutorials](https://realpython.com/tutorials/flask/)
